@@ -37,3 +37,30 @@ Bio.toTypeArray = function(data,type,onConverted){
         fileReader.readAsArrayBuffer(blob);
     }
 }
+
+Bio.sync.server = (url,objUUID) => {
+    
+}
+
+Bio.sync.client = (url,objUUID) => {
+    
+}
+
+Bio.sync.server_server = (url,objUUID) => {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
